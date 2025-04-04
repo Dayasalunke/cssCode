@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    perspective: 800;
+    perspective-origin: center;
+    transform-style: preserve-3d;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.back{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(51, 0, 255)
+}

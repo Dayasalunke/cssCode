@@ -1,0 +1,20 @@
+
+.container{
+   border: 2px solid red;
+   display: flex;
+   height: 80vh;
+   align-items:center;
+   justify-content:center;  
+}
+.item{
+    flex-grow: ;
+   height: 82px;
+   width: 82px;
+   border: 2px solid black;
+   margin: 4px;
+   background-color: aqua;
+   
+}
+.item1{
+    flex-grow: ;
+}
